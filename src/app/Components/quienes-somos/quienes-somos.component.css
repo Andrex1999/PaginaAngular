@@ -1,0 +1,35 @@
+body{
+
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.main_container{
+
+text-align: center;
+width: 80%;
+border: 1px gray solid;
+border-radius: 4%;
+margin-left: 40px;
+margin-top: 20px;
+
+-webkit-box-shadow: -1px 1px 28px 8px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 1px 28px 8px rgba(0,0,0,0.75);
+box-shadow: -1px 1px 28px 8px rgba(0,0,0,0.75);
+}
+
+.main_container img{
+width: 500px;
+height: 500px;
+}
+
+.main_container section{
+
+
+padding: 0 100px 20px 100px;
+font-family: 'Noto Sans JP';
+font-size: 20px;
+
+
+}
